@@ -1,0 +1,37 @@
+.content {
+   margin: 0;
+   padding: 20px;
+   text-align: center;
+   image-orientation: from-image;
+}
+
+.textinfo li {
+    display: inline;
+    padding: 10px;
+    /* text-align: center;
+    justify-content: center; */
+   
+}
+.textinfo li a{
+    text-decoration: none;
+}
+    
+
+.anything {
+   
+    height: 450PX;
+    width: 450PX;
+    padding-right: 10px;
+    padding-top: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.images{
+    margin-left: 600px;
+    margin-top: -300px;
+}
+
+
+.span {
+    color: rgb(233, 222, 222);
+}

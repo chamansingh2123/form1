@@ -1,0 +1,280 @@
+.content1{
+    display: flex;
+}
+.imginfo1{
+    width: 550px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 70px;
+}
+.heading1{
+    color: brown;
+}
+.ok1{
+    width: 350px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.ok2{
+    width: 350px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.span{
+    color: rgb(97, 97, 231);
+}
+.no1{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.no2{
+    margin-top: 40px;
+    margin-left: 120px;
+}
+.nothing1{
+    width: 500px;
+    height: 400px;
+}
+.content2{
+    display: flex;
+    width: 100%;
+    height: 350px;
+   
+}
+.imginfo2{
+    width: 430px;
+    height: 300px;
+}
+.heading2{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.no3{
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.nothing2{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.nothing2 button{
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+.content3{
+    display: flex;
+    width: 100%;
+    height: 300px;
+   
+}
+.imginfo3{
+    width: 430px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 50px;
+   
+} 
+.nothing3{
+    width: 550px;
+    margin-top: 40px;
+    height: 300px;
+    margin-left: 50px;
+}
+.nothing3 button{
+    margin-left: 10px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 1opx;
+}
+.content4{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    background-color: rgb(240, 201, 143);
+}
+.imginfo4{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.nothing4{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.content5{
+    display: flex;
+    width: 100%;
+    height: 500px;
+   
+}
+.heading5{
+    margin-top: 50px;
+    margin-left: 70px;
+    font-size: 35px;
+}
+.no4{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.nothing5{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.nothing5 button{
+    margin-left: 15px;
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 10px;
+}
+.content6{
+    display: flex;
+    height: 250px;
+    width: 100%;
+    
+}
+.heading6{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.no4{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.nothing6{
+    width: 300px;
+    height: 250px;
+    margin-top: 60px;
+}
+.nothing6 button{
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 150px;
+    margin-top: 15px;
+
+}
+.content7{
+    display: flex;
+    width: 100%;
+    height: 650px;
+    background-color: rgb(247, 252, 252);
+}
+.imginfo7{
+    width: 550px;
+    height: 400px;
+    margin-top: 200px;
+    margin-left: 80px;
+   
+}
+.heading7{
+    color: brown;
+}
+.no5{
+    font-size: 20px;
+}
+.nothing7{
+    margin-top: 200px;
+    margin-left: 10px;
+}
+.content8{
+    display: flex;
+    width: 100% ;
+    height: 650px;
+   
+}
+.imginfo8{
+    width: 500px;
+    height: 400px;
+    margin-left: 80px;
+    margin-top: 100px;
+
+}
+.heading8{
+    margin-top: 50px;
+    font-size: 40px;
+}
+.imginfo8 button{
+    height: 35px;
+    border-radius: 10px;
+}
+.nothing8{
+    width: 500px;
+    height: 400px;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.nothing8 button{
+    height: 33px;
+    width: 250px;
+}
+.content9{
+    display: flex;
+    width: 100%;
+    height: 600px;
+}
+.imginfo9{
+    background-color: rgb(240, 248, 255);
+    width: 580px;
+}
+.heading9{
+    margin-top: 120px;
+    margin-left: 80px;
+    font-size: 38px;
+    color: brown;
+}
+.no6{
+    margin-left: 80px;
+    font-size: 19px;
+}
+.imginfo9 button{
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 380px;
+    height: 50px;
+}
+.nothing9{
+    margin-left: 15px;
+}
+.content10{
+    display: flex;
+}
+.imginfo10{
+    margin-left: 80px;
+    margin-top: 200px;
+    width: 500px;
+    height: 300px;
+}
+.nothing10{
+    width: 750px;
+    height: 550px;
+    background-color: rgb(227, 236, 243);
+}
+.heading10{
+    font-size: 40px;
+    margin-top: 180px;
+    margin-left: 40px;
+    color: brown;
+}
+.no6{
+    font-size: 40px;
+}
+.content11{
+    background-color: rgb(221, 225, 230);
+}
+.heading11{
+    width: 100%;
+    margin-left: 30px;
+}
+.content11 button{
+    margin-left: 50px;
+    width: 120px;
+    height: 40px;
+    border-radius: 10px;
+}
+.content12{
+   
